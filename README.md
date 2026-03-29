@@ -1,2 +1,2 @@
-# Assignment 1
-java 
+# Java-Programming-Assignment
+Programming with Java-Assignment 1 Submission
